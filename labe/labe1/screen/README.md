@@ -12,4 +12,4 @@ report.md	заполненный бланк отчёта
 Проверка
 После отправки GitHub Actions собирает hello.c, запускает hello.py и ищет в выводе строки agent v0, pid=… и agent v0 (python), pid=…. Результат — вкладка Actions  Проверки.
 
-Коммит: labs 01: hello.c, hello.py, отчёт.
+Коммит: labe1: hello.c, hello.py, отчёт.
