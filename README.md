@@ -20,8 +20,8 @@
 
 Лучшие работы
 Работа	Что сделано
-labs/04-process
-labs/05-process
+labe/04-process
+labe/05-process
 
 
 
